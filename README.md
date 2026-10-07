@@ -12,23 +12,24 @@ PolyPay.AI provides official documentation, SDKs, plugins, integration guidance,
 
 | | Resource | Link |
 |---|---|---|
-| 🌐 | Website / 官网 | [polypay.ai](https://polypay.ai/) |
-| 📚 | Documentation / English Docs | [polypay.ai/en/docs](https://polypay.ai/en/docs) |
-| 📖 | 中文文档 | [polypay.ai/zh/docs](https://polypay.ai/zh/docs) |
-| 📨 | 技术支持 | <support@polypay.ai>|
-|   |   |   |
-| 💻 | GitHub | [github.com/PolyPayAi](https://github.com/PolyPayAi) |
-|   |   |   |
-| 📢 | Telegram Channel / 官方频道 | [@PolyPay](https://t.me/PolyPay) |
-| 💬 | Telegram Group / 讨论群组 | [@PolyPayAiOfficial](https://t.me/PolyPayAiOfficial) |
-| 👩‍💻 | Support / 客户服务 | [@PolyPayAIBOT](https://t.me/PolyPayAIBOT) |
-|   |   |   |
-| 𝕏 | X | [@PolyPayAi](https://x.com/intent/user?screen_name=PolyPayAi) |
-|   |   |   |
-| 📺 | YouTube | [@PolyPayAi](https://www.youtube.com/@polypayai) |
-| 📱 | TikTok | [@PolyPayAi](https://www.tiktok.com/@polypayai) |
-| 🖼️ | Instagram | [@PolyPayAi](https://www.instagram.com/polypayai/) |
-| @ | Threads | [@PolyPayAi](https://www.threads.com/polypayai/) |
+| 🌐 | Website / 官网 | <a href="https://polypay.ai/" target="_blank">PolyPay.ai</a> |
+| 📚 | Documentation / English Docs | <a href="https://polypay.ai/en/docs" target="_blank">PolyPay.ai/en/docs</a> |
+| 📖 | 中文文档 | <a href="https://polypay.ai/zh/docs" target="_blank">PolyPay.ai/zh/docs</a> |
+| 📨 | 技术支持 | <a href="mailto:support@polypay.ai">support@PolyPay.ai</a> |
+| | | |
+| 💻 | GitHub | <a href="https://github.com/PolyPayAi" target="_blank">github.com/PolyPayAi</a> |
+| | | |
+| 📢 | Telegram Channel / 官方频道 | <a href="https://t.me/PolyPay" target="_blank">@PolyPay</a> |
+| 💬 | Telegram Group / 讨论群组 | <a href="https://t.me/PolyPayAiOfficial" target="_blank">@PolyPayAiOfficial</a> |
+| 👩‍💻 | Support / 客户服务 | <a href="https://t.me/PolyPayAiBOT" target="_blank">@PolyPayAiBOT</a> |
+| | | |
+| 𝕏 | X | <a href="https://x.com/intent/user?screen_name=PolyPayAi" target="_blank">@PolyPayAi</a> |
+| | | |
+| 📺 | YouTube | <a href="https://www.youtube.com/@polypayai" target="_blank">@PolyPayAi</a> |
+| 📱 | TikTok | <a href="https://www.tiktok.com/@polypayai" target="_blank">@PolyPayAi</a> |
+| 🖼️ | Instagram | <a href="https://www.instagram.com/polypayai/" target="_blank">@PolyPayAi</a> |
+| @ | Threads | <a href="https://www.threads.com/polypayai/" target="_blank">@PolyPayAi</a> |
+
 ---
 
 ## Developer documentation / 开发者文档
