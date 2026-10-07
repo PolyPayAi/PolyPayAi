@@ -12,23 +12,23 @@ PolyPay.AI provides official documentation, SDKs, plugins, integration guidance,
 
 | | Resource | Link |
 |---|---|---|
-| 🌐 | Website / 官网 | <a href="https://polypay.ai/" target="_blank">PolyPay.Ai</a> |
-| 📚 | Documentation / English Docs | <a href="https://polypay.ai/en/docs" target="_blank">PolyPay.Ai/en/docs</a> |
-| 📖 | 中文文档 | <a href="https://polypay.ai/zh/docs" target="_blank">PolyPay.Ai/zh/docs</a> |
+| 🌐 | Website / 官网 | <a href="https://polypay.ai/" target="_blank">https://PolyPay.Ai</a> |
+| 📚 | Documentation / English Docs | <a href="https://polypay.ai/en/docs" target="_blank">https://PolyPay.Ai/en/docs</a> |
+| 📖 | 中文文档 | <a href="https://polypay.ai/zh/docs" target="_blank">https://PolyPay.Ai/zh/docs</a> |
 | 📨 | 技术支持 | <a href="mailto:support@polypay.ai">Support@PolyPay.Ai</a> |
 | | | |
 | 💻 | GitHub | <a href="https://github.com/PolyPayAi" target="_blank">Github.com/PolyPayAi</a> |
 | | | |
-| 📢 | Telegram Channel / 官方频道 | <a href="https://t.me/PolyPay" target="_blank">@PolyPay</a> |
-| 💬 | Telegram Group / 讨论群组 | <a href="https://t.me/PolyPayAiOfficial" target="_blank">@PolyPayAiOfficial</a> |
-| 👩‍💻 | Support / 客户服务 | <a href="https://t.me/PolyPayAiBOT" target="_blank">@PolyPayAiBOT</a> |
+| 📢 | Telegram Channel / 官方频道 | <a href="https://t.me/PolyPay" target="_blank">https://t.me/PolyPay</a> |
+| 💬 | Telegram Group / 讨论群组 | <a href="https://t.me/PolyPayAiOfficial" target="_blank">https://t.me/PolyPayAiOfficial</a> |
+| 👩‍💻 | Support / 客户服务 | <a href="https://t.me/PolyPayAiBOT" target="_blank">https://t.me/PolyPayAiBOT</a> |
 | | | |
-| 𝕏 | X | <a href="https://x.com/intent/user?screen_name=PolyPayAi" target="_blank">@PolyPayAi</a> |
+| 𝕏 | X | <a href="https://x.com/intent/user?screen_name=PolyPayAi" target="_blank">https://x.com/PolyPayAi</a> |
 | | | |
-| 📺 | YouTube | <a href="https://www.youtube.com/@polypayai" target="_blank">@PolyPayAi</a> |
-| 📱 | TikTok | <a href="https://www.tiktok.com/@polypayai" target="_blank">@PolyPayAi</a> |
-| 🖼️ | Instagram | <a href="https://www.instagram.com/polypayai/" target="_blank">@PolyPayAi</a> |
-| @ | Threads | <a href="https://www.threads.com/polypayai/" target="_blank">@PolyPayAi</a> |
+| 📺 | YouTube | <a href="https://www.youtube.com/@polypayai" target="_blank">https://www.youtube.com/@PolyPayAi</a> |
+| 📱 | TikTok | <a href="https://www.tiktok.com/@polypayai" target="_blank">https://www.tiktok.com/@PolyPayAi</a> |
+| 🖼️ | Instagram | <a href="https://www.instagram.com/polypayai/" target="_blank">https://www.instagram.com/PolyPayAi</a> |
+| @ | Threads | <a href="https://www.threads.com/polypayai/" target="_blank">https://www.threads.com/PolyPayAi</a> |
 
 ---
 
