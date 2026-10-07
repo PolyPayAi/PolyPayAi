@@ -20,7 +20,10 @@ PolyPay.AI provides official documentation, SDKs, plugins, integration guidance,
 | 📢 | Telegram Channel / 官方频道 | [@PolyPay](https://t.me/PolyPay) |
 | 💬 | Telegram Group / 讨论群组 | [@PolyPayAiOfficial](https://t.me/PolyPayAiOfficial) |
 | 🤖 | Support Bot / 客服 Bot | [@PolyPayAIBOT](https://t.me/PolyPayAIBOT) |
-
+| 📺 | YouTube | [@PolyPayAi](https://www.youtube.com/@polypayai) |
+| 📱 | TikTok | [@PolyPayAi](https://www.tiktok.com/@polypayai) |
+| 🖼️ | Instagram | [@PolyPayAi](https://www.instagram.com/polypayai/) |
+| @ | Threads | [@PolyPayAi](https://www.threads.com/polypayai/) |
 ---
 
 ## Developer documentation / 开发者文档
