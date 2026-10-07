@@ -12,10 +12,10 @@ PolyPay.AI provides official documentation, SDKs, plugins, integration guidance,
 
 | | Resource | Link |
 |---|---|---|
-| 🌐 | Website / 官网 | <a href="https://polypay.ai/" target="_blank">PolyPay.ai</a> |
-| 📚 | Documentation / English Docs | <a href="https://polypay.ai/en/docs" target="_blank">PolyPay.ai/en/docs</a> |
-| 📖 | 中文文档 | <a href="https://polypay.ai/zh/docs" target="_blank">PolyPay.ai/zh/docs</a> |
-| 📨 | 技术支持 | <a href="mailto:support@polypay.ai">support@PolyPay.ai</a> |
+| 🌐 | Website / 官网 | <a href="https://polypay.ai/" target="_blank">PolyPay.Ai</a> |
+| 📚 | Documentation / English Docs | <a href="https://polypay.ai/en/docs" target="_blank">PolyPay.Ai/en/docs</a> |
+| 📖 | 中文文档 | <a href="https://polypay.ai/zh/docs" target="_blank">PolyPay.Ai/zh/docs</a> |
+| 📨 | 技术支持 | <a href="mailto:support@polypay.ai">support@PolyPay.Ai</a> |
 | | | |
 | 💻 | GitHub | <a href="https://github.com/PolyPayAi" target="_blank">github.com/PolyPayAi</a> |
 | | | |
