@@ -8,7 +8,7 @@ PolyPay.AI provides official documentation, SDKs, plugins, integration guidance,
 
 ---
 
-## Official links / 官方入口
+## Official links / 官方网址
 
 | | Resource | Link |
 |---|---|---|
