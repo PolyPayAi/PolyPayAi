@@ -15,11 +15,16 @@ PolyPay.AI provides official documentation, SDKs, plugins, integration guidance,
 | 🌐 | Website / 官网 | [polypay.ai](https://polypay.ai/) |
 | 📚 | Documentation / English Docs | [polypay.ai/en/docs](https://polypay.ai/en/docs) |
 | 📖 | 中文文档 | [polypay.ai/zh/docs](https://polypay.ai/zh/docs) |
-| 𝕏 | X | [@PolyPayAi](https://x.com/intent/user?screen_name=PolyPayAi) |
+| 📨 | 技术支持 | <support@polypay.ai>|
+|   |   |   |
 | 💻 | GitHub | [github.com/PolyPayAi](https://github.com/PolyPayAi) |
+|   |   |   |
 | 📢 | Telegram Channel / 官方频道 | [@PolyPay](https://t.me/PolyPay) |
 | 💬 | Telegram Group / 讨论群组 | [@PolyPayAiOfficial](https://t.me/PolyPayAiOfficial) |
-| 🤖 | Support Bot / 客服 Bot | [@PolyPayAIBOT](https://t.me/PolyPayAIBOT) |
+| 👩‍💻 | Support / 客户服务 | [@PolyPayAIBOT](https://t.me/PolyPayAIBOT) |
+|   |   |   |
+| 𝕏 | X | [@PolyPayAi](https://x.com/intent/user?screen_name=PolyPayAi) |
+|   |   |   |
 | 📺 | YouTube | [@PolyPayAi](https://www.youtube.com/@polypayai) |
 | 📱 | TikTok | [@PolyPayAi](https://www.tiktok.com/@polypayai) |
 | 🖼️ | Instagram | [@PolyPayAi](https://www.instagram.com/polypayai/) |
