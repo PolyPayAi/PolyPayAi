@@ -17,7 +17,7 @@ PolyPay.AI provides official documentation, SDKs, plugins, integration guidance,
 | 📖 | 中文文档 | <a href="https://polypay.ai/zh/docs" target="_blank">https://PolyPay.Ai/zh/docs</a> |
 | 📨 | 技术支持 | <a href="mailto:support@polypay.ai">Support@PolyPay.Ai</a> |
 | | | |
-| 💻 | GitHub | <a href="https://github.com/PolyPayAi" target="_blank">Github.com/PolyPayAi</a> |
+| 💻 | GitHub | <a href="https://github.com/PolyPayAi" target="_blank">https://github.com/PolyPayAi</a> |
 | | | |
 | 📢 | Telegram Channel / 官方频道 | <a href="https://t.me/PolyPay" target="_blank">https://t.me/PolyPay</a> |
 | 💬 | Telegram Group / 讨论群组 | <a href="https://t.me/PolyPayAiOfficial" target="_blank">https://t.me/PolyPayAiOfficial</a> |
